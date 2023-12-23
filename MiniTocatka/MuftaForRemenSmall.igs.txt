@@ -1,0 +1,234 @@
+*** Warning (IAFP__LARGER_SGL_SIG) ***
+MuftaForRemenSmall.igs, line 4: IGES file has greater number of significant
+digits in single precision numbers than this system.
+
+*** Warning (IEVM_BAD_SUBORD_VAL) ***
+(DE 1, TF 116:0) The Subordinate Entity Switch flag in the Status Value field in
+this entity's DE section was set to 1, which is invalid for this entity.
+Action taken: The Subordinate Entity Switch flag in the Status Value field has
+been set to 0
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 409, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 409, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 413, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 413, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 417, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 417, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 421, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 421, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 423, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 423, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 427, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 427, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 429, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 429, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 431, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 431, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 435, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 435, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 437, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 437, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 439, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 439, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 441, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 441, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 443, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 443, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 445, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 445, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_PLANAR_FLAG_126) ***
+(DE 447, TF 126:0) This Rational B-Spline Curve entity's (126) Planar/Nonplanar
+property flag (Index 3 of Parameter Data) incorrectly specifies the entity as
+nonplanar.  The entity is planar within the specified tolerance.  
+Action taken: The entity's property flag has been changed from 0 to 1.
+
+*** Warning (IEVM_BAD_PLANE_NORMAL_126) ***
+(DE 447, TF 126:0) This Rational B-Spline Curve entity's (126) Unit Normal index
+(in the Parameter Data) for the plane of the curve is incorrect within the
+stated tolerance. 
+Action taken: The value in the Unit Normal index has been fixed.
+
+*** Warning (IEVM_BAD_NONPERIODIC_FLAG_2_128) ***
+(DE 1141, TF 128:0) This Rational B-Spline Surface entity's (128) second
+Periodic/Nonperiodic property flag (Index 9 of Parameter Data) is incorrectly
+specified as Periodic. 
+Action taken: The entity's Periodic/Nonperiodic property flag has been changed
+to 0.
+
+*** Warning (IEVM_BAD_NONPERIODIC_FLAG_2_128) ***
+(DE 1143, TF 128:0) This Rational B-Spline Surface entity's (128) second
+Periodic/Nonperiodic property flag (Index 9 of Parameter Data) is incorrectly
+specified as Periodic. 
+Action taken: The entity's Periodic/Nonperiodic property flag has been changed
+to 0.
+
+*** Warning (IEVM_BAD_NONPERIODIC_FLAG_2_128) ***
+(DE 1145, TF 128:0) This Rational B-Spline Surface entity's (128) second
+Periodic/Nonperiodic property flag (Index 9 of Parameter Data) is incorrectly
+specified as Periodic. 
+Action taken: The entity's Periodic/Nonperiodic property flag has been changed
+to 0.
+
+*** Warning (IEVM_BAD_NONPERIODIC_FLAG_2_128) ***
+(DE 1151, TF 128:0) This Rational B-Spline Surface entity's (128) second
+Periodic/Nonperiodic property flag (Index 9 of Parameter Data) is incorrectly
+specified as Periodic. 
+Action taken: The entity's Periodic/Nonperiodic property flag has been changed
+to 0.
+
+*** Warning (IEVM_BAD_NONPERIODIC_FLAG_2_128) ***
+(DE 1153, TF 128:0) This Rational B-Spline Surface entity's (128) second
+Periodic/Nonperiodic property flag (Index 9 of Parameter Data) is incorrectly
+specified as Periodic. 
+Action taken: The entity's Periodic/Nonperiodic property flag has been changed
+to 0.
+
+*** Warning (IEVM_BAD_NONPERIODIC_FLAG_2_128) ***
+(DE 1155, TF 128:0) This Rational B-Spline Surface entity's (128) second
+Periodic/Nonperiodic property flag (Index 9 of Parameter Data) is incorrectly
+specified as Periodic. 
+Action taken: The entity's Periodic/Nonperiodic property flag has been changed
+to 0.
+
+ 
+ 

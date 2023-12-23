@@ -1,4 +1,4 @@
-Started logging messages at Wed Nov 29 16:12:27 2023
+Started logging messages at Wed Nov 29 19:12:20 2023
 Info:    Using UV tolerance 1e-06
 Info:    Using UV tolerance 1e-06
 Info:    HwNlibToTSLib options selected:
@@ -1369,4 +1369,4 @@ Info:    Curves:                 0 found       0 created       0 failed
 Info:    Surfaces:               0 found       0 created       0 failed
 Info:    Trimmed Surfaces:       0 found       0 created       0 failed
 Info:    Breps:                  1 found       1 created       0 failed
-Finished logging messages at Wed Nov 29 16:12:34 2023
+Finished logging messages at Wed Nov 29 19:12:27 2023
